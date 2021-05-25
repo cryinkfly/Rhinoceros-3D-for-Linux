@@ -47,6 +47,8 @@ ________________________________________________
 
 ### Still in progress!!!
 
+What we need: winetricks -q corefonts vcrun2019 msxml6 dotnet48 fontsmooth=rgb win10
+
 ________________________________________________________________________________________________
 
 ##### Note: Simply ignore errors that occur during installation. 
