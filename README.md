@@ -47,7 +47,9 @@ ________________________________________________
 
 ### Still in progress!!!
 
-What we need: winetricks -q corefonts vcrun2019 msxml6 dotnet48 fontsmooth=rgb win10
+What we need: 
+
+> winetricks -q corefonts vcrun2019 msxml6 dotnet48 fontsmooth=rgb win10
 
 ________________________________________________________________________________________________
 
