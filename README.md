@@ -50,7 +50,7 @@ ________________________________________________
 ________________________________________________________________________________________________
 
 ##### Note: Simply ignore errors that occur during installation. 
-#####       The installation of SOLIDWORKS was repeated several times to ensure that it really worked.
+#####       The installation of Rhino 3D was repeated several times to ensure that it really worked.
 
 ________________________________________________________________________________________________
 
@@ -59,7 +59,7 @@ ________________________________________________________________________________
 
 - No users
 
-... they help me to get work Fusion 360 on Linux!!!
+... they help me to get work Rhino 3D on Linux!!!
 ________________________________________________________________________________________________
 
 #### Which workspaces I have tested:
