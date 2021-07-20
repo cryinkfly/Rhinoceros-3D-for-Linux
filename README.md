@@ -1,6 +1,7 @@
 # Rhino 3D - Linux (Wine-Version)
 
-![Installation](https://raw.githubusercontent.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/main/images/installation/%232_Test_6.png)
+![Bildschirmfoto_2021-07-20_12-10-46](https://user-images.githubusercontent.com/79079633/126308697-fd16c728-138c-414a-9f2e-85225c4366c1.png)
+
 
 Hello and Welcome on my GitHub-Channel "Crinkfly"!
 
