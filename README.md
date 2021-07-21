@@ -50,7 +50,7 @@ ________________________________________________
 
 What we need: 
 
-> winetricks -q corefonts dotnet462 dotnet48 win10
+> winetricks -q corefonts dotnet462 dotnet48 dxvk win10
 
 ________________________________________________________________________________________________
 
