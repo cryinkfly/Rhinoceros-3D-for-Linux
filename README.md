@@ -50,10 +50,10 @@ ________________________________________________
 
 What we need: 
 
-> Lutris (https://lutris.net/downloads/)
-> Wine Version: lutris-6.10-7
-> Install with Winetricks (Lutris): corefonts dotnet48
-> Wine Configuration (Lutris) -> Set up Windows Version: win10
+- Lutris (https://lutris.net/downloads/)
+- Wine Version: lutris-6.10-7
+- Install with Winetricks (Lutris): corefonts dotnet48
+- Wine Configuration (Lutris) -> Set up Windows Version: win10
 
 ________________________________________________________________________________________________
 
