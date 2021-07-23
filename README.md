@@ -20,10 +20,11 @@ You might want to use other CAD programs, then you can find more programs here:
 
   - Autodesk Fusion 360: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
   - SOLIDWORKS: https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-
+  - DesignSpark Mechanical: https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-
   - ...
 ________________________________________________
 
-Also you get more informations about SOLIDWORKS, when you visit my other channels:
+Also you get more informations about Rhinoceros 3D, when you visit my other channels:
 
   - Facebook:  https://www.facebook.com/cryinkfly/
   - Instagram: https://www.instagram.com/cryinkfly/
