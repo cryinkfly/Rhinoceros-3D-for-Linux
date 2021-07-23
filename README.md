@@ -66,7 +66,7 @@ Then you can install Rhino 3D:
 
 For the activation you must setup this one with winetricks:
 
-![Bildschirmfoto_2021-07-23_10-44-37](https://user-images.githubusercontent.com/79079633/126759440-bf231125-b719-4222-8c7f-b5d269e9dd10.png)
+![Bildschirmfoto_2021-07-23_10-44-37](https://user-images.githubusercontent.com/79079633/126760853-f9fa2b0b-5d35-43fd-82dc-927d5947e5b6.png)
 
 
 ... and then you get this window, when you running the Rhino.exe:
