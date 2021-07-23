@@ -52,7 +52,7 @@ ________________________________________________
 What we need: 
 
 - Lutris (https://lutris.net/downloads/)
-- Wine Version: lutris-6.10-7
+- Wine Version: lutris-6.10-7 (Burger Menu > Manage runners > Scroll down to WINE > click on the box icon (Manage Version) > Download your preferred version)
 - Install with Winetricks (Lutris): corefonts dotnet48
 - Wine Configuration (Lutris) -> Set up Windows Version: win10
 
