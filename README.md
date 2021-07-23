@@ -56,6 +56,14 @@ What we need:
 - Install with Winetricks (Lutris): corefonts dotnet48
 - Wine Configuration (Lutris) -> Set up Windows Version: win10
 
+Check my configuration of Rhino 3D (Lutris) here: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/images/configuration
+
+Install with winetricks these packages: corefonts dotnet48!
+
+Then you can install Rhino 3D:
+
+![Bildschirmfoto_2021-07-23_10-59-04](https://user-images.githubusercontent.com/79079633/126760588-fa8722e7-c9ab-4870-91a3-e6a5cec06454.png)
+
 For the activation you must setup this one with winetricks:
 
 ![Bildschirmfoto_2021-07-23_10-44-37](https://user-images.githubusercontent.com/79079633/126759440-bf231125-b719-4222-8c7f-b5d269e9dd10.png)
