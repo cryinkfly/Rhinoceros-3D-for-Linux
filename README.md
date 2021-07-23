@@ -56,6 +56,20 @@ What we need:
 - Install with Winetricks (Lutris): corefonts dotnet48
 - Wine Configuration (Lutris) -> Set up Windows Version: win10
 
+For the activation you must setup this one with winetricks:
+
+![Bildschirmfoto_2021-07-23_10-44-37](https://user-images.githubusercontent.com/79079633/126759440-bf231125-b719-4222-8c7f-b5d269e9dd10.png)
+
+
+... and then you get this window, when you running the Rhino.exe:
+
+![Bildschirmfoto_2021-07-23_10-34-27](https://user-images.githubusercontent.com/79079633/126759101-dfce00de-3ce7-4dce-bed0-1d7ede7919f8.png)
+
+![Bildschirmfoto_2021-07-23_10-45-14](https://user-images.githubusercontent.com/79079633/126759197-6efa87a8-7a58-423b-b1a1-4cc675652ff1.png)
+
+![Bildschirmfoto_2021-07-23_10-45-55](https://user-images.githubusercontent.com/79079633/126759305-f7555687-96f5-46b0-b79a-a1ac498e999a.png)
+
+
 ________________________________________________________________________________________________
 
 ##### Note: Simply ignore errors that occur during installation. 
