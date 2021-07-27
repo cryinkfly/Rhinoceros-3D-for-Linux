@@ -95,7 +95,7 @@ ________________________________________________________________________________
 
 #####        Special thanks go to these users:
 
-- ![@nathanletwory](https://discourse.mcneel.com/u/nathanletwory)
+- @nathanletwory
 
 ... they help me to get work Rhino 3D on Linux!!!
 ________________________________________________________________________________________________
