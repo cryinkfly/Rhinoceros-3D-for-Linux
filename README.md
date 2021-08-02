@@ -76,26 +76,31 @@ Install Rhino 3D for Linux client:
 
 1.) Check my [documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) and my [videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD) before You install Rhino 3D!
 
-2.) Check my configuration of Rhino 3D (Lutris) here: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/images/configuration
+2.) Download the installer from here: https://www.rhino3d.com/download/
 
-3.) Install with winetricks these packages: corefonts dotnet48!
+3.) Check my configuration of Rhino 3D (Lutris) here: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/images/configuration
 
-4.) Then you can install Rhino 3D:
+4.) Install with winetricks these packages: corefonts dotnet48!
+
+5.) Then you can install Rhino 3D:
 
 ![Bildschirmfoto_2021-07-23_10-59-04](https://user-images.githubusercontent.com/79079633/126760588-fa8722e7-c9ab-4870-91a3-e6a5cec06454.png)
 
-5.) For the activation you must setup this one with winetricks:
+6.) For the activation you must setup this one with winetricks:
 
 ![Bildschirmfoto_2021-07-23_10-44-37](https://user-images.githubusercontent.com/79079633/126760853-f9fa2b0b-5d35-43fd-82dc-927d5947e5b6.png)
 
 
-6.) ... and then you get this window, when you running the Rhino.exe:
+7.) ... and then you get this window, when you running the Rhino.exe:
 
 ![Bildschirmfoto_2021-07-23_10-34-27](https://user-images.githubusercontent.com/79079633/126759101-dfce00de-3ce7-4dce-bed0-1d7ede7919f8.png)
 
 ![Bildschirmfoto_2021-07-23_10-45-14](https://user-images.githubusercontent.com/79079633/126759197-6efa87a8-7a58-423b-b1a1-4cc675652ff1.png)
 
 ![Bildschirmfoto_2021-07-23_10-45-55](https://user-images.githubusercontent.com/79079633/126759305-f7555687-96f5-46b0-b79a-a1ac498e999a.png)
+
+
+8.) Now, You can use Rhino 3D on your Linux system!
 
 ---
 
