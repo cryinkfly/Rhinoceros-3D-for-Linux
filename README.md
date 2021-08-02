@@ -1,7 +1,4 @@
-# Rhino 3D - Linux (Wine-Version) - STILL IN PROGRESS!!!
-
-![Bildschirmfoto_2021-07-21_22-28-38](https://user-images.githubusercontent.com/79079633/126754591-47d32870-7fa8-4dd8-883d-eccda7ca67e7.png)
-
+![banner-rhino3d](https://user-images.githubusercontent.com/79079633/127899705-4f3d5846-d85a-48a7-8eaa-37b1d3ea619d.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
 ![GitHub issues](https://img.shields.io/github/issues-raw/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
@@ -9,58 +6,75 @@
 ![GitHub forks](https://img.shields.io/github/forks/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
 
-Hello and Welcome on my GitHub-Channel "Crinkfly"!
+Rhinoceros 3D (Rhino 3D) is a software for computer-aided 3D modeling and computer-aided design, what you can use for examble, in rapid prototyping, 3D printing or multimedia design.
 
-My name is Steve and in this repository you can find some instructions for Rhinoceros 3D, where you get a way to install this program on your system.
-I will give you a feedback at different intervals, when there is something new.
+But the problem is that you can only use this program on systems that have Windows or macOS installed.
 
-My goal is that we can also use Rhinoceros 3D on Linux and so we don't need longer two operating systems for this program, when we use this for our projects. I think this is a fantastic idea!
+And so I got the idea to start this project here to find a way to solve this problem. 
 
-________________________________________________
+I started looking at different tools and my choice was Wine! 
+
+With this nice tool we don't need longer two operating systems for Rhino 3D, when we will create a fantastic project! 
+
+Is that a great idea for the future?
+
+Personally, I think this idea is good and for this reason I will do my best to give you the opportunity to use it on Linux as well!
+
+---
 
 You will get more information about this program, then you can visit the original website of Rhinoceros 3D with this link: https://www.rhino3d.com/
-________________________________________________
 
-You might want to use other CAD programs, then you can find more programs here:
+---
 
-  - Autodesk Fusion 360: https://github.com/cryinkfly/Fusion-360---Linux-Wine-Version-
-  - SOLIDWORKS: https://github.com/cryinkfly/SOLIDWORKS-Linux-Wine-Version-
-  - DesignSpark Mechanical: https://github.com/cryinkfly/DesignSpark-Mechanical---Linux-Wine-Version-
-  - ...
-________________________________________________
+  - 📂 Downloads: ![Stable](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/stable-branch) and ![development builds](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/development-branch)
+  - 📔 Documentation: ![GitHub-Documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) & ![Videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD)
+  - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
+  - 📫 Then You can create an ![issue](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/issues) here on GitHub or You can contact me via my ![contact form](https://cryinkfly.com/contact/)!
+  - 📜 Code of Conduct: Contributor Covenant (Still in Progress!)
+  - 📖 Information for contributors: All contribution information, Compilation instructions, Roadmap (Still in Progress!)
+  - ❤️ I'd like to thank everyone who has ![helped](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/SPONSORS.md) me to get Fusion 360 up and running on Linux!
+  - 🍷 Super Application Maintainer (WineHQ): https://appdb.winehq.org/objectManager.php?sClass=application&iId=271
 
-Also you get more informations about Rhinoceros 3D, when you visit my other channels:
+---
 
-  - Facebook:  https://www.facebook.com/cryinkfly/
-  - Instagram: https://www.instagram.com/cryinkfly/
-  - YouTube:   https://www.youtube.com/channel/UCJO-EOBPtlVv5OycHkFPcRg
+## Screenshots
+<div>
+<img src="https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/images/rendering/rendering-progress.png" width="300px" height="200px">
+<img src="https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/images/rendering/rendering_set_up_color.png" width="300px" height="200px">
+</div>
+<div>
+<img src="https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/images/analysis/thickness%20_analysis.png" width="300px" height="200px">
+</div>
 
+---
 
-![YouTube_channel](https://user-images.githubusercontent.com/79079633/119709635-b9994e00-be5d-11eb-976a-fca87b572af1.png)
+## Downloads
 
-________________________________________________
+There are some ![script releases](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts) available, built from the release targets.
 
-My system:
+It's recommended that if you're new you start with the stable builds. Development builds are available here if you need it, but correspondingly may be less stable.
 
-OS: openSUSE Leap 15.3 x86_64<br/>
-Kernel: 5.3.18-57-default<br/>
-DE: Xfce<br/>
-CPU: Intel i7-7700HQ (8) @ 3.800GHz<br/>
-GPU: NVIDIA GeForce GTX 1060 Mobile 6G (Nvidia CUDA Repository)<br/><br/>
-Memory: 32GB
+---
 
-Wine version: wine-6.12 (WINEARCH = win64)
+## Hardware and Software Requirements
 
-________________________________________________
-
-### Still in progress!!!
-
-1.) What we need: 
-
+- Internet connection (Cable/DSL speeds recommended)
+- Latest Ubuntu LTS, Fedora, Debian, Manjaro, openSUSE Leap, fully updated
+- Latest graphics driver
+- Some packages (p7zip, p7zip-full, p7zip-rar, curl, wget, winbind, cabextract, wine, wine-mono, wine_gecko & winetricks)
 - Lutris (https://lutris.net/downloads/)
 - Wine Version: lutris-6.10-7 (Burger Menu > Manage runners > Scroll down to WINE > click on the box icon (Manage Version) > Download your preferred version)
 - Install with Winetricks (Lutris): corefonts dotnet48
 - Wine Configuration (Lutris) -> Set up Windows Version: win10
+
+---
+
+## Getting Started
+
+Install Rhino 3D for Linux client:
+
+
+1.) Check my ![documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) and my ![videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD) before You install Rhino 3D!
 
 2.) Check my configuration of Rhino 3D (Lutris) here: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/images/configuration
 
@@ -83,34 +97,64 @@ ________________________________________________
 
 ![Bildschirmfoto_2021-07-23_10-45-55](https://user-images.githubusercontent.com/79079633/126759305-f7555687-96f5-46b0-b79a-a1ac498e999a.png)
 
+---
 
-________________________________________________________________________________________________
+## Which work areas and functions have I tested:
 
-##### Note: Simply ignore errors that occur during installation. 
-#####       The installation of Rhino 3D was repeated several times to ensure that it really worked.
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Windows</th>
+<th>macOS</th>
+<th>Linux</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Construction</td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<tr>
+<td>Analysis</td>
+<td><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+</tr>
+<tr>
+<td>Rendering</td>
+<td><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+</tr>
+<tr>
+<td>Documentation</td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+</tr>
+<tr>
+<td>Online- & Offline-Mode</td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+<td style="text-align: center;"><g-emoji class="g-emoji" alias="heavy_check_mark" fallback-src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png"><img class="emoji" alt="heavy_check_mark" src="https://github.githubassets.com/images/icons/emoji/unicode/2714.png" width="20" height="20"></g-emoji></td>
+</tr>
+</tbody>
+</table>
 
-________________________________________________________________________________________________
+---
 
+## Important Notice
 
-##### Super Application Maintainer (WineHQ): https://appdb.winehq.org/objectManager.php?sClass=application&iId=271
+With the help of my script, You get a way to install Rhino 3D on your Linux system. 
 
-- @cryinkfly (Administrator & Project Manager)
+Certain packages and programs that are required will be set up for You, but it's important to know, that my script only helps You to get the program to run and nothing more! 
 
-________________________________________________________________________________________________
+And so, You must to purchase the licenses directly from the manufacturer of the program Rhino 3D!
 
-#####        Special thanks go to these users:
+---
 
-- @jesterKing
+## License
 
-... they help me to get work Rhino 3D on Linux!!!
-________________________________________________________________________________________________
-
-#### Which workspaces I have tested:
-
-- Rendering (works)
-- Still in progress
-________________________________________________________________________________________________
-
-#### If you have some problems or a question:
-
-https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/issues
+All my scripts are released under the MIT license, see ![LICENSE.md](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/LICENSE.md) for full text.
