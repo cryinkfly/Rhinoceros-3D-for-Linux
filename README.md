@@ -1,8 +1,13 @@
-# Rhino 3D - Linux (Wine-Version)
+# Rhino 3D - Linux (Wine-Version) - STILL IN PROGRESS!!!
 
 ![Bildschirmfoto_2021-07-21_22-28-38](https://user-images.githubusercontent.com/79079633/126754591-47d32870-7fa8-4dd8-883d-eccda7ca67e7.png)
 
 
+![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues-raw/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
+![GitHub Repo stars](https://img.shields.io/github/stars/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
+![GitHub forks](https://img.shields.io/github/forks/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
+![GitHub](https://img.shields.io/github/license/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
 
 Hello and Welcome on my GitHub-Channel "Crinkfly"!
 
