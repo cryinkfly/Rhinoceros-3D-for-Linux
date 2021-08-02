@@ -26,13 +26,13 @@ You will get more information about this program, then you can visit the origina
 
 ---
 
-  - 📂 Downloads: ![Stable](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/stable-branch) and ![development builds](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/development-branch)
-  - 📔 Documentation: ![GitHub-Documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) & ![Videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD)
+  - 📂 Downloads: [Stable](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/stable-branch) and [development builds](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/development-branch)
+  - 📔 Documentation: [GitHub-Documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) & [Videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD)
   - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
-  - 📫 Then You can create an ![issue](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/issues) here on GitHub or You can contact me via my ![contact form](https://cryinkfly.com/contact/)!
+  - 📫 Then You can create an [issue](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/issues) here on GitHub or You can contact me via my [contact form](https://cryinkfly.com/contact/)!
   - 📜 Code of Conduct: Contributor Covenant (Still in Progress!)
   - 📖 Information for contributors: All contribution information, Compilation instructions, Roadmap (Still in Progress!)
-  - ❤️ I'd like to thank everyone who has ![helped](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/SPONSORS.md) me to get Fusion 360 up and running on Linux!
+  - ❤️ I'd like to thank everyone who has [helped](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/SPONSORS.md) me to get Fusion 360 up and running on Linux!
   - 🍷 Super Application Maintainer (WineHQ): https://appdb.winehq.org/objectManager.php?sClass=application&iId=271
 
 ---
@@ -50,7 +50,7 @@ You will get more information about this program, then you can visit the origina
 
 ## Downloads
 
-There are some ![script releases](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts) available, built from the release targets.
+There are some [script releases](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts) available, built from the release targets.
 
 It's recommended that if you're new you start with the stable builds. Development builds are available here if you need it, but correspondingly may be less stable.
 
@@ -74,7 +74,7 @@ It's recommended that if you're new you start with the stable builds. Developmen
 Install Rhino 3D for Linux client:
 
 
-1.) Check my ![documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) and my ![videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD) before You install Rhino 3D!
+1.) Check my [documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) and my [videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD) before You install Rhino 3D!
 
 2.) Check my configuration of Rhino 3D (Lutris) here: https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/images/configuration
 
@@ -157,4 +157,4 @@ And so, You must to purchase the licenses directly from the manufacturer of the 
 
 ## License
 
-All my scripts are released under the MIT license, see ![LICENSE.md](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/LICENSE.md) for full text.
+All my scripts are released under the MIT license, see [LICENSE.md](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/LICENSE.md) for full text.
