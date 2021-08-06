@@ -22,7 +22,7 @@ Personally, I think this idea is good and for this reason I will do my best to g
 
 ---
 
-You will get more information about this program, then you can visit the original website of Rhinoceros 3D with this link: https://www.rs-online.com/designspark/home
+You will get more information about this program, then you can visit the original website of Rhinoceros 3D with this link: https://www.rhino3d.com/
 
 ---
 
