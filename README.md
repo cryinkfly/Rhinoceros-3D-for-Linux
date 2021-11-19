@@ -29,7 +29,7 @@ You will get more information about this program, then you can visit the origina
   - 📂 Downloads: [Stable](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/stable-branch) and [development builds](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/tree/main/scripts/development-branch)
   - 📔 Documentation: [GitHub-Documentation](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/wiki/Documentation) & [Videos](https://www.youtube.com/watch?v=xVgswrL7BVo&list=PLzwMdS5iu_BKebzY2Ne3mGYrGi8YQWjfD)
   - 💬 Would You like to get in touch with me? Or if You have any questions, suggestions or problems?
-  - 📫 Then You can create an [issue](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/issues) here on GitHub or You can contact me via my [contact form](https://cryinkfly.com/contact/)!
+  - 📫 Then You can create an [issue](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/issues) here on GitHub or You visit my <a href="https://cryinkfly.com">website</a> and get in touch with me!
   - 📜 Code of Conduct: Contributor Covenant (Still in Progress!)
   - 📖 Information for contributors: All contribution information, Compilation instructions, Roadmap (Still in Progress!)
   - ❤️ I'd like to thank everyone who has [helped](https://github.com/cryinkfly/Rhino-3D---Linux-Wine-Version-/blob/main/COMMUNITY.md) me to get Rhino 3D up and running on Linux!
