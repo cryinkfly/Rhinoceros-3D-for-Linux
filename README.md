@@ -1,3 +1,8 @@
+>[!WARNING]
+>The transfer of all repositories to my [Codeberg account](https://codeberg.org/cryinkfly) is currently ongoing. In the future, this project will be continued on https://codeberg.org/cryinkfly/Rhinoceros-3D-on-Linux!
+
+---
+
 ![banner-rhino3d](https://user-images.githubusercontent.com/79079633/127899705-4f3d5846-d85a-48a7-8eaa-37b1d3ea619d.png)
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/cryinkfly/Rhino-3D---Linux-Wine-Version-?style=for-the-badge)
